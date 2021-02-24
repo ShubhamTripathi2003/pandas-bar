@@ -1,0 +1,11 @@
+Product_ID,Price(in $),Supplier_Code,Supplier_Name,City,State,Country
+1,1260,1001,Betina,Parkville,MO,US
+2,1200,1002,Federica,Astoria,OR,US
+3,1370,1003,Gerd W,Cahaba Heights,AL,US
+4,955,1004,Laurence,Mickleton,NJ,US
+5,2178,1005,Fleur,Peoria,IL,US
+6,1300,1006,adam,Martin,TN,US
+7,1840,1007,Stacy,New York,NY,US
+8,1510,1008,Sean,Shavano Park,TX,US
+9,1095,1009,Georgia,Eagle,ID,US
+10,1250,1010,Richard,Riverside,NJ,US
